@@ -1,0 +1,62 @@
+Modelatge:
+Imatges/Videos/Sketchfab
+
+HTML/CSS/JS:
+Imatges(cp)/Interficie HTML
+
+Processing:
+Imatges/ Exportació JS		
+
+Unity/Pou:
+Imatges/Exportar WEBGL
+
+Animació 3D/2D:
+Video(cp)/Imatge/Instertar Flash
+
+Stop Motion:
+Video
+
+Photoshop:
+Imatges
+
+Sai:
+Imatges
+
+Illustrator:
+Imatges 
+
+Escultura:
+Imatges/Video
+
+Il.luminació:
+Imatges
+
+Rigging:
+Video ensenyant el cotxe/fotos
+
+Texturització:
+Imatges
+
+Altres/Personals
+
+
+
+
+Estructura:
+
+Portfoli{
+    -CSS
+    -JS
+    -img(del portafoli)
+
+   Treballs{
+    -media -img
+           -video
+   }
+}
+
+
+
+github:
+per lligar la url
+per dir que es public: settings -> github pages -> Source (master branch) i et dona la url
